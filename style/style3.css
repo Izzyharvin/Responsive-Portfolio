@@ -7,7 +7,7 @@ body {
 }
 nav{
     max-width: 100%;
-    background-color: gray;
+    background-color: white;
     height: 100px;
 }
 .name{
@@ -46,14 +46,6 @@ section, h2 {
     color: black;
 }
 
-.center {
-    position: absolute;
-    top: 10%;
-    left: 10%;
-    margin: 10%;
-    padding: 10%;
-}
-
 .fullBox {
     position: relative;
     text-align: center;
@@ -77,8 +69,8 @@ section, h2 {
     background-color:teal;
 }
 
-/*Desktop*/
-@media only screen and (max-width: 980px) {
+ /*Desktop*/
+ @media only screen and (max-width: 980px) {
     .wrapper {
         width:100%;
     }
