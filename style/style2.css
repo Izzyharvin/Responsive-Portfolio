@@ -7,7 +7,7 @@ body {
 }
 nav{
     max-width: 100%;
-    background-color: white;
+    background-color: gray;
     height: 100px;
 }
 .name{
